@@ -71,8 +71,6 @@ import personsicon from "@/assets/img/persons-record-icon.png";
 import doctorview from "@/assets/img/doctors-overview.png";
 import patientsgraph from "@/assets/img/patients-graph.png";
 import yeardrpdown from "@/assets/img/year-drpdown.png";
-import chart1 from "@/assets/img/Chart-1.png";
-import chart2 from "@/assets/img/Chart-2.png";
 import yeargraph from "@/assets/img/year-graph.png";
 export default {
   name: "DashboardContent",
@@ -82,8 +80,6 @@ export default {
       doctorview,
       patientsgraph,
       yeardrpdown,
-      chart1,
-      chart2,
       yeargraph,
     };
   },
